@@ -32,3 +32,5 @@ Seu foco atual está em especializar-se em segurança ofensiva, com ênfase em a
 Conecte-se com Larissa no [LinkedIn](https://www.linkedin.com/in/larissa-fonseca/).
 
 ---
+
+> _Os códigos presentes nesse repositório foram criados por AIs puramente com o propósito investigativo, conforme apresentado na palestra_  
